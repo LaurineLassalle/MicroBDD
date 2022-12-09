@@ -1,0 +1,15 @@
+D:\Courprie\C#\exercie1\MicroBDD\MicroBDD\bin\Debug\net6.0\MicroBDD.exe
+D:\Courprie\C#\exercie1\MicroBDD\MicroBDD\bin\Debug\net6.0\MicroBDD.deps.json
+D:\Courprie\C#\exercie1\MicroBDD\MicroBDD\bin\Debug\net6.0\MicroBDD.runtimeconfig.json
+D:\Courprie\C#\exercie1\MicroBDD\MicroBDD\bin\Debug\net6.0\MicroBDD.dll
+D:\Courprie\C#\exercie1\MicroBDD\MicroBDD\bin\Debug\net6.0\MicroBDD.pdb
+D:\Courprie\C#\exercie1\MicroBDD\MicroBDD\obj\Debug\net6.0\MicroBDD.csproj.AssemblyReference.cache
+D:\Courprie\C#\exercie1\MicroBDD\MicroBDD\obj\Debug\net6.0\MicroBDD.GeneratedMSBuildEditorConfig.editorconfig
+D:\Courprie\C#\exercie1\MicroBDD\MicroBDD\obj\Debug\net6.0\MicroBDD.AssemblyInfoInputs.cache
+D:\Courprie\C#\exercie1\MicroBDD\MicroBDD\obj\Debug\net6.0\MicroBDD.AssemblyInfo.cs
+D:\Courprie\C#\exercie1\MicroBDD\MicroBDD\obj\Debug\net6.0\MicroBDD.csproj.CoreCompileInputs.cache
+D:\Courprie\C#\exercie1\MicroBDD\MicroBDD\obj\Debug\net6.0\MicroBDD.dll
+D:\Courprie\C#\exercie1\MicroBDD\MicroBDD\obj\Debug\net6.0\refint\MicroBDD.dll
+D:\Courprie\C#\exercie1\MicroBDD\MicroBDD\obj\Debug\net6.0\MicroBDD.pdb
+D:\Courprie\C#\exercie1\MicroBDD\MicroBDD\obj\Debug\net6.0\MicroBDD.genruntimeconfig.cache
+D:\Courprie\C#\exercie1\MicroBDD\MicroBDD\obj\Debug\net6.0\ref\MicroBDD.dll
